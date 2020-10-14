@@ -1,12 +1,6 @@
-![GitHub](https://img.shields.io/github/license/taller-R/clase_9) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/taller-R/clase_9/issues) ![](https://img.shields.io/github/followers/taller-R?style=social)
+![GitHub](https://img.shields.io/github/license/taller-R/clase_9) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/taller-R/clase_9/issues) ![](https://img.shields.io/github/followers/taller-R?style=social) ![Powered-taller-R-orange](https://img.shields.io/badge/Powered_by-Taller_R-blue?logo=R)
 
 <img src="https://avatars0.githubusercontent.com/u/69440432?s=400&u=96b3e58c713578b563d5c3d3c259f34965ac8e33&v=4" align="right" width=120 height=120 alt="" />
-
-### Colaboradores ![Powered-taller-R-orange](https://img.shields.io/badge/Powered_by-Taller_R-blue?logo=R)
-
-<a href="https://github.com/taller-R/clase_9/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=taller-R/clase_9" />
-</a>
 
 # INSTRUCCIONES
 
@@ -52,3 +46,9 @@ Ahora puedes ir a la carpeta **codes** y abrir el script **Clase 9 (sf).R** para
 * Los vídeos de la clase se encuentran [aquí](https://www.dropbox.com/sh/4y4u2cg69q208iu/AABx0oumoRP0rf6mYDP1U2F1a?dl=0). Nota: Dropbox no deja reproducir los vídeos más de 1 hora en linea, debe descargarlos para que pueda verlos completos.
 
 * Por favor hacer todas las correcciones ortográficas a este y los demás archivos **.Rmd** del repositorio.
+
+## 5. Colaboradores 
+
+<a href="https://github.com/taller-R/clase_9/graphs/contributors">
+<img src="https://contributors-img.web.app/image?repo=taller-R/clase_9"/>
+</a>
