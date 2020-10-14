@@ -17,7 +17,7 @@ setwd('~/Dropbox/teaching/Taller de R/GitHub/Clases/Clase 9') # Cambiar este dir
 getwd()
 
 #### 0.2 Instalar las librerias que vamos a usar en la clase de hoy
-paquetes = c('tidyverse','sf','raster','grid','png','osmdata')
+paquetes = c('tidyverse','sf','raster','grid','png')
 for ( paquete in paquetes){
       if (length(grep(paquete,installed.packages()[,1])) == 0 ){ install.packages(paquete) ; print(paste0('La libreria ', '"', paquete ,'"', ' ha sido instalada.'))}
       else { print(paste0('La libreria ', '"', paquete ,'"', ' ya está instalada.'))}

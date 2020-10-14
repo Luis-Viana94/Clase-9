@@ -27,13 +27,10 @@ knitr::opts_chunk$set(echo = T , eval = T , warning = T)
 
 # 2. Hoy veremos 
 
-* 1. Introduccion a la informacion espacial
+* 1. Introducción a la información espacial
 * 2. Importar y exportar archivos espaciales
 * 3. Atributos de los archivos espaciales
-* 4. Visualizar informacion espacial
-* 5. Reproyectar informacion espacial
-* 6. Agregar informacion a mapas
-* 7. ¿Donde encuentro informacion espacial libre?
+* 4. Reproyectar información espacial
 
 # 3. Antes de iniciar la clase ...
 
