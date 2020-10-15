@@ -28,13 +28,9 @@ list.files()
 ```
 O puede seguir [estas](https://eduard-martinez.github.io/blog/github/clonar_github.html) instrucciones para crear una versión de control de Git en Rstudio que contenga este repositorio. En este [otro](https://www.dropbox.com/sh/bc76kg2h0xcid70/AAA86g9eP4l8ayr6KYEpvxI2a?dl=0) vídeo usted encuentra una explicación de como trabajar en un repositorio de GitHub. 
 
-
-
 ## 2. Leer las instrucciones iniciales
 
 Después de descargar o clonar el repositorio de la clase, usted debe abrir el archivo **Intro-clase-9.html** que se encuentra dentro de la carpeta del repositorio. Siga atentamente las instrucciones.
-
-
 
 ## 3. Script de la clase
 
